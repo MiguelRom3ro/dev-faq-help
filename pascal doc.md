@@ -10,6 +10,7 @@
 8. [Sesiones](#sesiones)
 
 ---
+```pascal
 
 ## Estructura de un Proyecto
 
@@ -82,7 +83,6 @@ end.
 
 ### Declaración de Variables
 
-```pascal
 var
   nombre: string;
   edad: integer;
